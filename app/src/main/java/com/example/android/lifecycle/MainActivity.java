@@ -41,7 +41,6 @@ public class MainActivity extends AppCompatActivity {
      */
     private TextView mLifecycleDisplay;
 
-    // TODO (1) Declare and instantiate a static ArrayList of Strings called mLifecycleCallbacks
     private static ArrayList<String> mLifecycleCallbacks = new ArrayList<>();
 
     /**
